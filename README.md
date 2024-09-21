@@ -1,6 +1,6 @@
 ## Olá, sou Bruno Imanaka! Bem-Vindo ao meu perfil 😁
    <ul type="circle">
-      <li>Cursando 4º Semestre de Analise e Desenvolvimento de Sistemas.</li>
+      <li>Formado em Analise e Desenvolvimento de Sistemas.</li>
       <li>Buscando sempre evoluir.</li>
       <li>Linguagens e Tecnologias que já estudei ou estou estudando.</li></ul>    
 
